@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(226, 221, 209);
+    height: 200vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.centered-frame {
+    border: 2px solid orange;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    width: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
